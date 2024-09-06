@@ -6,6 +6,7 @@
       <class name="InterviewCoding.Selenium_Basic">
         <methods>
           <include name="setup"/>
+          <include name="beforesetup"/>
         </methods>
       </class> <!-- InterviewCoding.Selenium_Basic -->
     </classes>

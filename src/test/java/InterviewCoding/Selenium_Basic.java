@@ -35,7 +35,7 @@ public class Selenium_Basic {
 	public void setup() throws IOException, Exception{
 		
 		
-	driver.get("https://www.google.com/");
+	driver.get("www.google.com");
 	driver.quit();
 //	Thread.sleep(2000);
 //	
@@ -55,7 +55,7 @@ public class Selenium_Basic {
 //    
 //    
 //    
-/
+
 
     
     
